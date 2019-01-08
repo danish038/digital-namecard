@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:dana@danaandcomarketing.com
 TEL;type=WORK;type=VOICE:505 918 6315
 item1.ADR;type=WORK;type=pref:;;6703 Academy Rd NE\Albuquerque\, NM;;;87109
 item1.X-ABADR:sg
-item2.URL;type=pref:dana@danaandcomarketing.com
+item2.URL;type=pref:danaandcomarketing.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
